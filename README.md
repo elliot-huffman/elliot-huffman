@@ -34,26 +34,18 @@ I approach security and automation challenges with the following mindsets and be
 
 Some of the skills that I have in security and automation engineering are:
 
-- TypeScript
-- JavaScript
-- PowerShell
-- Windows
-- Linux (Debian Based Distros)
-- MacOS
-- Securing Privileged Access (SPA)
-- Certifications
-- Training
-- Architecture
-- Azure
-- Automation
-- Software Engineering
-- DevSecOps
-- DevOps
-- Infrastructure as Code (IaC)
-- MDT/Task Sequence
-- ADK
-- PKI
-- App and OS Deployment
+| Automation | Security |
+|------------|----------|
+| Scalability | Architecture |
+| `TypeScript`/`JavaScript` | Securing Privileged Access (`SPA`) |
+| `PowerShell` | Tooling Deployment and Configuration (`EDR`/`SEIM`/`SAST`/`DAST`/`CNAPP`, etc.) |
+| `Windows`, `Linux` (Debian Based Distros), `MacOS` | Malware Reversing |
+| App and OS Deployment | Incident Response |
+| DevOps | DevSecOps |
+| Infrastructure as Code (`IaC`) | PKI |
+| Cloud (`Azure`/`AWS`) | Vulnerability Analysis |
+| Software Engineering | Software Engineering |
+| Training | Training |
 
 ## 📚 My publications
 
