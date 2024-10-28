@@ -1,6 +1,6 @@
 # Hi there, I'm Elliot Huffman 👋
 
-I'm a world class, bleeding edge, security architect and automation engineer for computer systems. I used to be a Microsoft engineer and now run my own security company: `Moot, Inc.`. I have vast enterprise and government experience. I used to be the lead author of Azure Security Best Practices while at Microsoft.
+I'm a world class, bleeding edge, security architect and automation engineer for computer systems. I used to be a `Microsoft` engineer, co-founded my own security company: `Moot, Inc.` and sold it to `SHI International`, where I now work happily. I have vast enterprise and government experience. I used to be the lead author of Azure Security Best Practices while at Microsoft.
 
 ## 🏆 My achievements
 
@@ -13,7 +13,7 @@ Some of the projects or achievements that I am most proud of in my security and 
   - Assisting Microsoft's DART team with malware removal automation by building a custom AV engine for an engagement gone wrong to turn the whole thing around and make it a success.
 - **Security:**
   - Rebuilding the EBCI after a cyber-attack with the Securing Privileged Access (https://aka.ms/spa) architecture.
-  - Assisting Microsoft's DART team with `PowerShell`/`C#` malware reversing
+  - Assisting Microsoft's DART team with `PowerShell`/`C#` malware reversing.
 
 ## 🔧 My tools and frameworks
 
@@ -56,4 +56,4 @@ Some of the publications that mention me or my work are:
 
 ## 🎓 My certifications
 
-You can view my public certification records on my Credly profile: https://www.credly.com/users/elliot-huffman/badges
+You can view my public certification records on my LinkedIn profile: https://www.linkedin.com/in/elliot-huffman/#licenses_and_certifications
